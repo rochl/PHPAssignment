@@ -1,28 +1,4 @@
-nav {
-  background-color: deepskyblue;
-}
 
-nav ul li {
-  display: inline-block;
-  padding-right: 10px;
-}
-
-nav li a:visited,
-div li a:link {
-  text-decoration: none;
-}
-
-nav li a:hover :active {
-  background-color: deepskyblue;
-  border-radius: 10px;
-}
-
-#container {
-  border: 1px solid darkslategrey;
-  width: 800px;
-  margin: 5px auto;
-  min-height: 600px;
-}
 
 .bd-placeholder-img {
   font-size: 1.125rem;
